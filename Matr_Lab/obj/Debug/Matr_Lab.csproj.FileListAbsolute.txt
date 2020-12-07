@@ -1,0 +1,6 @@
+D:\Проекты програмирование\Laba_2\Matr_Lab\bin\Debug\Matr_Lab.dll
+D:\Проекты програмирование\Laba_2\Matr_Lab\bin\Debug\Matr_Lab.pdb
+D:\Проекты програмирование\Laba_2\Matr_Lab\obj\Debug\Matr_Lab.csprojAssemblyReference.cache
+D:\Проекты програмирование\Laba_2\Matr_Lab\obj\Debug\Matr_Lab.csproj.CoreCompileInputs.cache
+D:\Проекты програмирование\Laba_2\Matr_Lab\obj\Debug\Matr_Lab.dll
+D:\Проекты програмирование\Laba_2\Matr_Lab\obj\Debug\Matr_Lab.pdb
